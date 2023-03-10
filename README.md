@@ -1,32 +1,32 @@
-#**[Group-G] Winter23 Applied AI Project**
+# **[Group-G] Winter23 Applied AI Project**
 Project:- Age Detection Using Convolutional Neural Networks
 
-##**High level description/presentation of the project**
+## **High level description/presentation of the project**
 - 
 -
 - 
 - 
-##**Requirements**
+## **Requirements**
 - 
 - 
-##**Instruction on how to train/validate the model**
+## **Instruction on how to train/validate the model**
 - 
 - 
-##**Instructions on how to run the pre-trained model on the provided sample test dataset**
+## **Instructions on how to run the pre-trained model on the provided sample test dataset**
 - 
 - 
-##**Your source code package in PyTorch**
+## **Your source code package in PyTorch**
 - 
 - 
 - 
 - 
-##**Description on how to obtain the Dataset from an available download link**
-###*Original Dataset Link*
+## **Description on how to obtain the Dataset from an available download link**
+ - ###*Original Dataset Link*
 - Dataset 1 (APPA-REAL) - 
 - Dataset 2 (UTKFace)   -
 - Dataset 3 (Adience)   -
 
-##*Dataset link after Splitting*
+ - ## *Dataset link after Splitting*
 
 - Dataset 1 (APPA-REAL) - https://drive.google.com/file/d/1CDu624NYDpMxn9JrxdBL2whlc3uwXENM/view?usp=sharing
 - Dataset 2 (UTKFace)   - https://drive.google.com/file/d/1YoK9QAnGyx_ocIBivy3waZT8QH6nvIF_/view?usp=sharing
