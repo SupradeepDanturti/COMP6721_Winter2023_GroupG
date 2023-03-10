@@ -1,5 +1,9 @@
 # **[Group-G] Winter23 Applied AI Project**
-Project:- Age Detection Using Convolutional Neural Networks
+### **Project:- Age Detection Using Convolutional Neural Networks**
+#### **Team Details**
+1. Nika
+2. Anahitha
+3. Supradeep Danturti (40226103)
 
 ## **High level description/presentation of the project**
 - 
