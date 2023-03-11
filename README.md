@@ -1,5 +1,20 @@
 # **[Group-G] Winter23 Applied AI Project**
-### **Project:- Age Detection Using Convolutional Neural Networks**
+> **Project:- Age Detection Using Convolutional Neural Networks**
+
+## **Table of contents**
+* [Team Details](#Team Details)
+* [Description of the Project](#High level description/presentation of the project)
+* [Requirements](#Requirements)
+* [How to Train/Validate the Model](#Instruction on how to train/validate the model)
+* [Run Pre-Trained Model on Sample Dataset](#Instructions on how to run the pre-trained model on the provided sample test dataset)
+* [Source Code Package](#Your source code package in PyTorch)
+* [Dataset Details](#Description on how to obtain the Dataset from an available download link)
+
+
+
+
+
+
 #### **Team Details**
 1. Nika
 2. Anahitha
