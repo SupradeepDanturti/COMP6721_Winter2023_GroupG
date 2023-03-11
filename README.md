@@ -1,6 +1,16 @@
 # **[Group-G] Winter23 Applied AI Project**
 > **Project:- Age Detection Using Convolutional Neural Networks**
 
+- [**Team Details**](#--team-details--)
+- [**High level description/presentation of the project**](#--high-level-description-presentation-of-the-project--)
+- [**Requirements**](#--requirements--)
+- [**Instruction on how to train/validate the model**](#--instruction-on-how-to-train-validate-the-model--)
+- [**Instructions on how to run the pre-trained model on the provided sample test dataset**](#--instructions-on-how-to-run-the-pre-trained-model-on-the-provided-sample-test-dataset--)
+- [**Your source code package in PyTorch**](#--your-source-code-package-in-pytorch--)
+- [**Description on how to obtain the Dataset from an available download link**](#--description-on-how-to-obtain-the-dataset-from-an-available-download-link--)
+  * [*Original Dataset Link*](#-original-dataset-link-)
+- [*Dataset link after Splitting*](#-dataset-link-after-splitting-)
+<!-- 
 ## **Table of contents**
 * [Team Details](#Team Details)
 * [Description of the Project](#High level description/presentation of the project)
@@ -8,7 +18,7 @@
 * [How to Train/Validate the Model](#Instruction on how to train/validate the model)
 * [Run Pre-Trained Model on Sample Dataset](#Instructions on how to run the pre-trained model on the provided sample test dataset)
 * [Source Code Package](#Your source code package in PyTorch)
-* [Dataset Details](#Description on how to obtain the Dataset from an available download link)
+* [Dataset Details](#Description on how to obtain the Dataset from an available download link) -->
 
 
 
