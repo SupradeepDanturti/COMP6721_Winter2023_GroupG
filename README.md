@@ -9,7 +9,7 @@
 - [**Your source code package in PyTorch**](#--your-source-code-package-in-pytorch--)
 - [**Description on how to obtain the Dataset from an available download link**](#--description-on-how-to-obtain-the-dataset-from-an-available-download-link--)
   * [*Original Dataset Link*](#-original-dataset-link-)
-- [*Dataset link after Splitting*](#-dataset-link-after-splitting-)
+  * [*Dataset link after Splitting*](#-dataset-link-after-splitting-)
 <!-- 
 ## **Table of contents**
 * [Team Details](#Team Details)
