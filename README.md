@@ -17,7 +17,7 @@
 
 
 ## **Team Details**
-1. Nika
+1. Nika Behjati (40154815)
 2. Anahitha
 3. Supradeep Danturti (40226103)
 
