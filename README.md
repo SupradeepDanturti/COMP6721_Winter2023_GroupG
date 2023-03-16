@@ -27,8 +27,9 @@
 - 
 - 
 ## **Requirements**
-- 
-- 
+- torch==1.13.1
+- torchvision==0.14.1
+- cuda V11.7
 ## **Instruction on how to train/validate the model**
 - 
 - 
