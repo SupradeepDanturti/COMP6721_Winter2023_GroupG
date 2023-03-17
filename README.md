@@ -18,7 +18,7 @@
 
 ## **Team Details**
 1. Nika Behjati (40154815)
-2. Anahitha
+2. Anahita Jabbari (40204349)
 3. Supradeep Danturti (40226103)
 
 ## **High level description/presentation of the project**
