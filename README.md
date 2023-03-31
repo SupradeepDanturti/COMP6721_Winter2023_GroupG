@@ -5,7 +5,7 @@
 - [**High level description/presentation of the project**](#high-level-description-presentation-of-the-project)
 - [**Requirements**](#requirements)
 - [**Instruction on how to train/validate the model**](#instruction-on-how-to-train-validate-the-model)
-- [*Instructions on how to run the pre-trained model on the provided sample test dataset**](#instructions-on-how-to-run-the-pre-trained-model-on-the-provided-sample-test-dataset)
+- [**Instructions on how to run the pre-trained model on the provided sample test dataset**](#instructions-on-how-to-run-the-pre-trained-model-on-the-provided-sample-test-dataset)
 - [**Your source code package in PyTorch**](#source-code-package-in-pytorch)
 - [**Description on how to obtain the Dataset from an available download link**](#description-on-how-to-obtain-the-dataset-from-an-available-download-link)
   * [*Original Dataset Link*](#original-dataset-link)
@@ -27,9 +27,14 @@
 - 
 - 
 ## **Requirements**
-- torch==1.13.1
-- torchvision==0.14.1
-- cuda V11.7
+- PIL                 9.2.0
+- cv2                 4.7.0
+- matplotlib          3.5.2
+- numpy               1.21.5
+- sklearn             1.0.2
+- torch               1.8.1+cu111
+- torchvision         0.9.1+cu101
+- cuda -> V11.1 
 ## **Instruction on how to train/validate the model**
 - 
 - 
@@ -43,9 +48,9 @@
 - 
 ## **Description on how to obtain the Dataset from an available download link**
  - ### *Original Dataset Link*
-- Dataset 1 (APPA-REAL) - 
-- Dataset 2 (UTKFace)   -
-- Dataset 3 (Adience)   -
+- [Dataset 1 (APPA-REAL)](https://www.kaggle.com/datasets/abhikjha/appa-real-face-cropped)
+- [Dataset 2 (UTKFace)]() 
+- [Dataset 3 (Adience)](https://www.kaggle.com/datasets/arcarcarc/adience-dataset-preprocessed)
 
  - ## *Dataset link after Splitting*
 
