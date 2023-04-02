@@ -1,4 +1,4 @@
-# **[Group-G] Winter23 Applied AI Project**
+# **COMP6721_Winter2023_GroupG**
 > *Project:- Age Detection Using Convolutional Neural Networks*
 
 - [**Team Details**](#team-details)
