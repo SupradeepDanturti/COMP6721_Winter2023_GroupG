@@ -45,7 +45,7 @@
 - The 2 Transfer Learning models can be found here with their respective saved model files. [Transfer Learning Files](./Code/TransferLearning/)
 - Preprocessing steps can be found [here](./Code/Preprocessing/).
 - Dataset Study can be found [here](./Code/DatasetStudy.ipynb).
-- Note Other ipynb files and Saved models are the code/results mentioned in the Ablative Study.
+- **Note**- Other ipynb files and Saved models which are available in the code are mentioned under the Ablative Study section in results.
 ## **Description on how to obtain the Dataset from an available download link**
  - ### *Original Dataset Link*
 - [Dataset 1 (APPA-REAL)](https://www.kaggle.com/datasets/abhikjha/appa-real-face-cropped)
@@ -55,6 +55,7 @@
  - ## *Dataset link after Splitting*
 
 - [Dataset 1 (APPA-REAL)](https://drive.google.com/file/d/1RH7qDhMHaoc-geTPYyFOaTCSz55t6ujb/view?usp=sharing)
+- **Note** -  Used UTKFace BinarySplit for the final submission.
 - [Dataset 2 (UTKFace)](https://drive.google.com/file/d/1xnCpeLVD-DQ0t3-ePJqSBOy6Fh5QMy_v/view?usp=sharing)
 - [Dataset 2 UTKFace BinarySplit](https://drive.google.com/file/d/14uKBJwUZgMKRXsVvDAXk8dFjbYpmyPMb/view?usp=share_link)
 - [Dataset 3 (Adience)](https://drive.google.com/file/d/1dKqpyg99OyuGnwvJTskDpps1HaUcjs2G/view?usp=sharing)
