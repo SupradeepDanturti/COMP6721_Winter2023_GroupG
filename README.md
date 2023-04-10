@@ -37,11 +37,12 @@
 - cuda -> V11.1 
 ## **Instruction on how to train/validate the model**
 - To train or validate the code use the 3 ipynb files mentioned in the first point of Source Code Package.
+- Before running any of those 3 files please change the directory path. [Path](./Code/UTKFace/AllUTKFace/AllModelsOnUTKFaceDataset.ipynb#4-1)
 ## **Instructions on how to run the pre-trained model on the provided sample test dataset**
 - 
 - 
 ## **Source Code Package in PyTorch**
-- There are 3 ipynb files of eaach dataset containing the initial 9 models which can be found here with their saved model files. [Dataset-1 UTKFace](./Code/UTKFace/AllUTKFace/) | [dataset-2 Adience](./Code/Adience/AdienceAllModels/) | [Dataset-3 Appa-Real](./Code/AppaReal/AllModelsAppa-Real/)
+- There are 3 ipynb files of eaach dataset containing the initial 9 models which can be found here with their saved model files. [Dataset-1 UTKFace](./Code/UTKFace/AllUTKFace/) | [Dataset-2 Adience](./Code/Adience/AdienceAllModels/) | [Dataset-3 Appa-Real](./Code/AppaReal/AllModelsAppa-Real/)
 - The 2 Transfer Learning models can be found here with their respective saved model files. [Transfer Learning Files](./Code/TransferLearning/)
 - Preprocessing steps can be found [here](./Code/Preprocessing/).
 - Dataset Study can be found [here](./Code/DatasetStudy.ipynb).
