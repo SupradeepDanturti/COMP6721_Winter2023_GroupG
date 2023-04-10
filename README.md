@@ -1,5 +1,5 @@
 # **COMP6721_Winter2023_GroupG**
-> *Project:- Age Detection Using Convolutional Neural Networks*
+> *Project:- Age Classification Using Convolutional Neural Networks*
 
 - [**Team Details**](#team-details)
 - [**High level description/presentation of the project**](#high-level-description-presentation-of-the-project)
@@ -36,16 +36,16 @@
 - torchvision         0.9.1+cu101
 - cuda -> V11.1 
 ## **Instruction on how to train/validate the model**
-- 
-- 
+- To train or validate the code use the 3 ipynb files mentioned in the first point of Source Code Package.
 ## **Instructions on how to run the pre-trained model on the provided sample test dataset**
 - 
 - 
 ## **Source Code Package in PyTorch**
-- 
-- 
-- 
-- 
+- There are 3 ipynb files of eaach dataset containing the initial 9 models which can be found here with their saved model files. [Dataset-1 UTKFace](.Code/UTKFace/AllUTKFace/) | [dataset-2 Adience](./Code/Adience/AdienceAllModels/) | [Dataset-3 Appa-Real](./Code/AppaReal/AllModelsAppa-Real/)
+- The 2 Transfer Learning models can be found here with their respective saved model files. [Transfer Learning Files](./Code/TransferLearning/)
+- Preprocessing steps can be found [here](./Code/Preprocessing/).
+- Dataset Study can be found [here](./Code/DatasetStudy.ipynb).
+- Note Other ipynb files and Saved models are the code/results mentioned in the Ablative Study.
 ## **Description on how to obtain the Dataset from an available download link**
  - ### *Original Dataset Link*
 - [Dataset 1 (APPA-REAL)](https://www.kaggle.com/datasets/abhikjha/appa-real-face-cropped)
