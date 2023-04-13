@@ -29,7 +29,6 @@
 - torch               1.8.1+cu111
 - torchvision         0.9.1+cu101
 - cuda -> V11.1 
-- 
 ## **Instruction on how to train/validate the model**
 - To train or validate the code use the 3 ipynb files mentioned in the first point of Source Code Package.
 - Before running any of those 3 files please change the directory path in cell 4. [Link to cell 4 of UTKFaceipynb file](./Code/UTKFace/AllUTKFace/AllModelsOnUTKFaceDataset.ipynb#cell-4)
