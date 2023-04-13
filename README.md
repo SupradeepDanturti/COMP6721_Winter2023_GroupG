@@ -39,8 +39,8 @@
 - To train or validate the code use the 3 ipynb files mentioned in the first point of Source Code Package.
 - Before running any of those 3 files please change the directory path in cell 4. [Link to cell 4 of UTKFaceipynb file](./Code/UTKFace/AllUTKFace/AllModelsOnUTKFaceDataset.ipynb#cell-4)
 ## **Instructions on how to run the pre-trained model on the provided sample test dataset**
-- 
-- 
+- [Random Test Sample of 100 images from each dataset](https://drive.google.com/file/d/1Lsw0U2c2BQMXjaWgyLWOQG9oaGjfiTPm/view?usp=sharing)
+- Use the [TestSampleOnPreTrainedModel file](./Code/TestSampleOnPreTrainedModel.ipynb) to run the pretrained models.
 ## **Source Code Package in PyTorch**
 - There are 3 ipynb files of eaach dataset containing the initial 9 models which can be found here with their saved model files. [Dataset-1 UTKFace](./Code/UTKFace/AllUTKFace/) | [Dataset-2 Adience](./Code/Adience/AdienceAllModels/) | [Dataset-3 Appa-Real](./Code/AppaReal/AllModelsAppa-Real/)
 - The 2 Transfer Learning models can be found here with their respective saved model files. [Transfer Learning Files](./Code/TransferLearning/)
