@@ -11,11 +11,6 @@
   * [*Original Dataset Link*](#original-dataset-link)
   * [*Dataset link after Splitting*](#dataset-link-after-splitting)
 
-
-
-
-
-
 ## **Team Details**
 1. Nika Behjati (40154815)
 2. Anahita Jabbari (40204349)
@@ -24,7 +19,7 @@
 ## **High level description/presentation of the project**
 - Automated human age classification (HAC) models are an essential application of facial recognition technology in various sectors, including marketing and healthcare. However, accurately classifying an individual's age based on their facial features is a complex problem for AI systems due to the challenges of facial image interpretation. Existing literature has demonstrated that deep CNN architectures like VGG-16 and custom CNN models can classify age accurately, but these models are limited by high computational complexity and a need for significant training data.
 
- - This report proposed a systematic approach using ResNet18, MobileNetV2, and ShuffleNetV2 models trained on APPA-REAL, UTKFace, and Adience datasets to address these challenges. Highly based on comparing all different models and datasets while studying their performance and Computational complexity.
+ - Proposed a systematic approach using ResNet18, MobileNetV2, and ShuffleNetV2 models trained on APPA-REAL, UTKFace, and Adience datasets to address these challenges. Highly based on comparing all different models and datasets while studying their performance and Computational complexity.
 ## **Requirements**
 - PIL                 9.2.0
 - cv2                 4.7.0
@@ -34,6 +29,7 @@
 - torch               1.8.1+cu111
 - torchvision         0.9.1+cu101
 - cuda -> V11.1 
+- 
 ## **Instruction on how to train/validate the model**
 - To train or validate the code use the 3 ipynb files mentioned in the first point of Source Code Package.
 - Before running any of those 3 files please change the directory path in cell 4. [Link to cell 4 of UTKFaceipynb file](./Code/UTKFace/AllUTKFace/AllModelsOnUTKFaceDataset.ipynb#cell-4)
